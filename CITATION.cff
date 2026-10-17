@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or build on this work, cite all eleven contributors."
+title: "AdaptiveGaming: a one-day group exercise in building IP with AI (September 15, 2024)"
+type: software
+authors:
+  - {family-names: Tyrie, given-names: Rob}
+  - {family-names: Bercovici, given-names: Valentin}
+  - {family-names: Robinson, given-names: Andrew}
+  - {family-names: Frodsham, given-names: Geoff}
+  - {family-names: Metz, given-names: Chuck}
+  - {family-names: McDonald, given-names: Patrick}
+  - {family-names: Tsang, given-names: Denise}
+  - {family-names: Phares, given-names: Scott}
+  - {family-names: Moy, given-names: Dan}
+  - {family-names: Bohtehlo, given-names: Rick}
+  - {family-names: Nicols, given-names: Antonia}
+repository-code: "https://github.com/Ironstone-Advisory/adaptivegaming"
+license: CC-BY-4.0
+date-released: 2024-09-15
+keywords: [AdaptiveGaming, prior art, AI-assisted invention, casual games]

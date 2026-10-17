@@ -37,7 +37,9 @@ The tagline that came out of it: **adaptive games = infinite(casual(games))**.
 
 ## Contributors
 
-See [CONTRIBUTORS.md](CONTRIBUTORS.md). All eleven are credited equally as participants.
+See [CONTRIBUTORS.md](CONTRIBUTORS.md). All eleven are credited equally as participants. To cite the work, use [CITATION.cff](CITATION.cff).
+
+Archive hosted by Rob Tyrie, Ironstone Advisory · [ironstoneadvisory.com](https://ironstoneadvisory.com).
 
 ## License and attribution
 
