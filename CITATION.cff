@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use or build on this work, cite all eleven contributors."
+message: "If you use or build on this work, cite all twelve contributors."
 title: "AdaptiveGaming: a one-day group exercise in building IP with AI (September 15, 2024)"
 type: software
 authors:
@@ -12,6 +12,7 @@ authors:
   - {family-names: Tsang, given-names: Denise}
   - {family-names: Phares, given-names: Scott}
   - {family-names: Moy, given-names: Dan}
+  - {family-names: Botelho, given-names: Rick}
   - {family-names: Nichols, given-names: Antonia}
   - {family-names: Shepherd, given-names: David}
 repository-code: "https://github.com/Ironstone-Advisory/adaptivegaming"

@@ -1,6 +1,6 @@
 # AdaptiveGaming
 
-**A courtesy archive of a September 2024 group exercise: eleven people building a full IP package with AI, from a single game, in one day.**
+**A courtesy archive of a September 2024 group exercise: a group building a full IP package with AI, from a single game, in one day.**
 
 AdaptiveGaming is not a product and not owned by anyone in particular. It is a record of a working session, kept public on purpose as **prior art** and as an example of how fast AI lets a group go from a toy to a platform concept.
 
@@ -8,7 +8,7 @@ AdaptiveGaming is not a product and not owned by anyone in particular. It is a r
 
 ## What happened
 
-On September 15, 2024, Rob Tyrie and ten partners ran an experiment: start with one small piece of working software and see how far a group plus AI could take it in a day.
+On September 15, 2024, Rob Tyrie and a group of partners ran an experiment: start with one small piece of working software and see how far a group plus AI could take it in a day.
 
 1. A simple concentration-style card game was generated as a standalone React component. It worked after a few prompts.
 2. The group observed that the same game could be re-themed into a thousand variants by adding one transformation layer.
@@ -40,7 +40,7 @@ The two PDFs are kept unchanged, with checksums. See [source/README.md](source/R
 
 ## Contributors
 
-See [CONTRIBUTORS.md](CONTRIBUTORS.md). All eleven are credited equally as participants. To cite the work, use [CITATION.cff](CITATION.cff).
+See [CONTRIBUTORS.md](CONTRIBUTORS.md). All twelve are credited equally as participants. To cite the work, use [CITATION.cff](CITATION.cff).
 
 Archive hosted by Rob Tyrie, Ironstone Advisory · [ironstoneadvisory.com](https://ironstoneadvisory.com).
 
@@ -48,7 +48,7 @@ Archive hosted by Rob Tyrie, Ironstone Advisory · [ironstoneadvisory.com](https
 
 [CC BY 4.0](LICENSE). Attribute as:
 
-> AdaptiveGaming (2024), group exercise by Rob Tyrie, Valentin Bercovici, Andrew Robinson, Geoff Frodsham, Chuck Metz, Patrick McDonald, Denise Tsang, Scott Phares, Dan Moy, Antonia Nichols and David Shepherd. CC BY 4.0. Archive hosted by Ironstone Advisory.
+> AdaptiveGaming (2024), group exercise by Rob Tyrie, Valentin Bercovici, Andrew Robinson, Geoff Frodsham, Chuck Metz, Patrick McDonald, Denise Tsang, Scott Phares, Dan Moy, Rick Botelho, Antonia Nichols and David Shepherd. CC BY 4.0. Archive hosted by Ironstone Advisory.
 
 ## Relationship to other projects
 
