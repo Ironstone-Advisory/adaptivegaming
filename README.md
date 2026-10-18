@@ -48,7 +48,7 @@ Archive hosted by Rob Tyrie, Ironstone Advisory · [ironstoneadvisory.com](https
 
 [CC BY 4.0](LICENSE). Attribute as:
 
-> AdaptiveGaming (2024), group exercise by Rob Tyrie, Valentin Bercovici, Andrew Robinson, Geoff Frodsham, Chuck Metz, Patrick McDonald, Denise Tsang, Scott Phares, Dan Moy, Rick Boehle and Antonia Nichols. CC BY 4.0. Archive hosted by Ironstone Advisory.
+> AdaptiveGaming (2024), group exercise by Rob Tyrie, Valentin Bercovici, Andrew Robinson, Geoff Frodsham, Chuck Metz, Patrick McDonald, Denise Tsang, Scott Phares, Dan Moy, Antonia Nichols and David Shepherd. CC BY 4.0. Archive hosted by Ironstone Advisory.
 
 ## Relationship to other projects
 

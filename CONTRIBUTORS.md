@@ -1,6 +1,6 @@
 # Contributors
 
-The eleven participants in the AdaptiveGaming session of September 15, 2024, listed as named in the source document. Each is credited as a co-creator. Nobody, including the host of this archive, holds more rights than anyone else.
+The eleven people credited for AdaptiveGaming, the exercise that began on September 15, 2024. Names follow the source documents in `source/`. Each is credited as a co-creator. Nobody, including the host of this archive, holds more rights than anyone else.
 
 | # | Name |
 |---|---|
@@ -13,8 +13,8 @@ The eleven participants in the AdaptiveGaming session of September 15, 2024, lis
 | 7 | Denise Tsang |
 | 8 | Scott Phares |
 | 9 | Dan Moy |
-| 10 | Rick Boehle |
-| 11 | Antonia Nichols |
+| 10 | Antonia Nichols |
+| 11 | David Shepherd |
 
 Spelling follows the source. If your name is wrong or you would like a link added, open an issue or a pull request.
 

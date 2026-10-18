@@ -18,9 +18,9 @@ Both PDFs were generated with AI and exported from Google Docs. They were emaile
 The two documents list participants differently:
 
 - `patent-application-draft.pdf` lists five people as "Inventors and Owners": Rob Tyrie, Valentin Bercovici, Andrew Robinson, David Shepherd and Geoff Frodsham.
-- `platform-description-v3.pdf` lists eleven creators. These are the eleven named in [CONTRIBUTORS.md](../CONTRIBUTORS.md).
+- `platform-description-v3.pdf` lists eleven creators.
 
-The documents are kept as they were written. The whole work is shared under CC BY 4.0, and the contributor list in this repository is the reference for credit. Corrections are welcome by issue or pull request.
+The documents are kept as they were written. The whole work is shared under CC BY 4.0, and [CONTRIBUTORS.md](../CONTRIBUTORS.md) is the reference for credit. It draws on both documents and was confirmed by the archive's host on October 18, 2026. Corrections are welcome by issue or pull request.
 
 ## Still missing
 
