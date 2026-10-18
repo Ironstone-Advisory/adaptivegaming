@@ -13,8 +13,8 @@ The eleven participants in the AdaptiveGaming session of September 15, 2024, lis
 | 7 | Denise Tsang |
 | 8 | Scott Phares |
 | 9 | Dan Moy |
-| 10 | Rick Bohtehlo |
-| 11 | Antonia Nicols |
+| 10 | Rick Boehle |
+| 11 | Antonia Nichols |
 
 Spelling follows the source. If your name is wrong or you would like a link added, open an issue or a pull request.
 

@@ -31,9 +31,12 @@ The tagline that came out of it: **adaptive games = infinite(casual(games))**.
 |---|---|---|
 | `docs/session-2024-09-15.md` | Account of the session and the method | Included |
 | `docs/design-principles.md` | Principles the group set for the platform | Included |
-| `source/patent-application-draft.pdf` | The generated patent-style write-up | To be added from the original email of Oct 5, 2024 |
+| `source/patent-application-draft.pdf` | The generated patent-style write-up (5 pages) | Included |
+| `source/platform-description-v3.pdf` | A longer description of the platform concept (12 pages) | Included |
 | `source/press-release.md` | The generated press release | To be added |
 | `source/game/` | The original React game component | To be added if recovered |
+
+The two PDFs are kept unchanged, with checksums. See [source/README.md](source/README.md), including a note on how they list participants.
 
 ## Contributors
 
@@ -45,7 +48,7 @@ Archive hosted by Rob Tyrie, Ironstone Advisory · [ironstoneadvisory.com](https
 
 [CC BY 4.0](LICENSE). Attribute as:
 
-> AdaptiveGaming (2024), group exercise by Rob Tyrie, Valentin Bercovici, Andrew Robinson, Geoff Frodsham, Chuck Metz, Patrick McDonald, Denise Tsang, Scott Phares, Dan Moy, Rick Bohtehlo and Antonia Nicols. CC BY 4.0. Archive hosted by Ironstone Advisory.
+> AdaptiveGaming (2024), group exercise by Rob Tyrie, Valentin Bercovici, Andrew Robinson, Geoff Frodsham, Chuck Metz, Patrick McDonald, Denise Tsang, Scott Phares, Dan Moy, Rick Boehle and Antonia Nichols. CC BY 4.0. Archive hosted by Ironstone Advisory.
 
 ## Relationship to other projects
 
